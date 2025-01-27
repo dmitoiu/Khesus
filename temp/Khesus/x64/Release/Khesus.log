@@ -1,0 +1,8 @@
+﻿  Khesus.cpp
+Khesus.obj : error LNK2001: unresolved external symbol EVP_DigestFinal_ex
+Khesus.obj : error LNK2001: unresolved external symbol EVP_DigestInit_ex
+Khesus.obj : error LNK2001: unresolved external symbol EVP_MD_CTX_free
+Khesus.obj : error LNK2001: unresolved external symbol EVP_DigestUpdate
+Khesus.obj : error LNK2001: unresolved external symbol EVP_get_digestbyname
+Khesus.obj : error LNK2001: unresolved external symbol EVP_MD_CTX_new
+D:\Dev\Console Apps\Khesus\output\Khesus\x64\Release\Khesus.exe : fatal error LNK1120: 6 unresolved externals
