@@ -1,4 +1,4 @@
-## Slovatus
+## Khesus
 
 **C++ OpenSLL File and String Hash Generator**
 
