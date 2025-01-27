@@ -1,8 +1,8 @@
 ﻿  Khesus.cpp
-D:\Dev\Console Apps\Khesus\source\Khesus\Khesus.cpp(84,61): warning C4244: 'argument': conversion from 'std::streamsize' to 'size_t', possible loss of data
+D:\Dev\Console Apps\Khesus\source\Khesus\Khesus.cpp(102,61): warning C4244: 'argument': conversion from 'std::streamsize' to 'size_t', possible loss of data
   Generating code
-  1 of 412 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+  0 of 412 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
+    0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   Khesus.vcxproj -> D:\Dev\Console Apps\Khesus\output\Khesus\Win32\Release\Khesus.exe
