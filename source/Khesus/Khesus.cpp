@@ -25,7 +25,7 @@
 
 void printUsage() {
     std::cout << "\nUsage:\n"
-        << "  hash_app [OPTIONS]\n\n"
+        << "  Khesus [OPTIONS]\n\n"
         << "Options:\n"
         << "  --string <text>       Hash the given string.\n"
         << "  --file <path>         Hash the contents of the specified file.\n"
@@ -36,8 +36,8 @@ void printUsage() {
         << "  sha256                SHA-256 hash (256-bit).\n"
         << "  sha512                SHA-512 hash (512-bit).\n\n"
         << "Examples:\n"
-        << "  hash_app --string \"Khesus\" --hash sha256\n"
-        << "  hash_app --file input.txt --hash md5\n\n";
+        << "  Khesus.exe --string \"Khesus\" --hash sha256\n"
+        << "  Khesus.exe --file input.txt --hash md5\n\n";
 }
 
 std::string hashString(const std::string& input, const std::string& hashType) {
